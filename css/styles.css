@@ -1,0 +1,10 @@
+.flexcontainer{
+  display: flex;
+}
+img{
+  width: 100%;
+}
+
+.top{
+  /*background-color: #ffeee2;*/
+}
